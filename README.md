@@ -6,6 +6,12 @@
     
     yarn
 
+新增依赖：
+
+    cd miniprogram
+
+    yarn add xxx
+
 分包：
     
     暂无分包
