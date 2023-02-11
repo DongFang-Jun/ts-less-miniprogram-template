@@ -1,5 +1,7 @@
 小程序技术架构：原生小程序 + typescript +less + vant
 
+安装工具：**yarn**
+
 分包：暂无分包
 
 七牛云项目地址仓库：static/BKRYB/mini（小程序端） static/BKRYB/pc（pc端） 
