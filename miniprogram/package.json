@@ -10,8 +10,6 @@
     "@types/moment": "^2.13.0",
     "@types/qs": "^6.9.7",
     "@vant/weapp": "^1.10.12",
-    "mobx-miniprogram": "^4.13.2",
-    "mobx-miniprogram-bindings": "^2.1.5",
     "moment": "^2.29.4",
     "qs": "^6.11.0"
   },
